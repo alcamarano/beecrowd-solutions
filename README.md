@@ -14,3 +14,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1003|[Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003)|[1003.py](iniciante/1003.py)|
 |1004|[Produto Simples](https://judge.beecrowd.com/pt/problems/view/1004)|[1004.py](iniciante/1004.py)|
 |1005|[Média 1](https://judge.beecrowd.com/pt/problems/view/1005)|[1005.py](iniciante/1005.py)|
+|1006|[Média 2](https://judge.beecrowd.com/pt/problems/view/1006)|[1006.py](iniciante/1006.py)|
