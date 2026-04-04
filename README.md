@@ -17,4 +17,5 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1006|[Média 2](https://judge.beecrowd.com/pt/problems/view/1006)|[1006.py](iniciante/1006.py)|
 |1007|[Diferença](https://judge.beecrowd.com/pt/problems/view/1007)|[1007.py](iniciante/1007.py)|
 |1008|[Salário](https://judge.beecrowd.com/pt/problems/view/1008)|[1008.py](iniciante/1008.py)|
-|1009|[Salário com bônus](https://judge.beecrowd.com/pt/problems/view/1009)|[1009.py](iniciante/1009.py)|
+|1009|[Salário com Bônus](https://judge.beecrowd.com/pt/problems/view/1009)|[1009.py](iniciante/1009.py)|
+|1010|[Cálculo Simples](https://judge.beecrowd.com/pt/problems/view/1010)|[1010.pt](iniciante/1010.py)|
