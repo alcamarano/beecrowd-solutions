@@ -19,3 +19,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1008|[Salário](https://judge.beecrowd.com/pt/problems/view/1008)|[1008.py](iniciante/1008.py)|
 |1009|[Salário com Bônus](https://judge.beecrowd.com/pt/problems/view/1009)|[1009.py](iniciante/1009.py)|
 |1010|[Cálculo Simples](https://judge.beecrowd.com/pt/problems/view/1010)|[1010.pt](iniciante/1010.py)|
+|1011|[Esfera](https://judge.beecrowd.com/pt/problems/view/1011)|[1011.py](iniciante/1011.py)|
