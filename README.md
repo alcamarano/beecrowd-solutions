@@ -21,3 +21,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1010|[Cálculo Simples](https://judge.beecrowd.com/pt/problems/view/1010)|[1010.py](iniciante/1010.py)|
 |1011|[Esfera](https://judge.beecrowd.com/pt/problems/view/1011)|[1011.py](iniciante/1011.py)|
 |1012|[Área](https://judge.beecrowd.com/pt/problems/view/1012)|[1012.py](iniciante/1012.py)|
+|1013|[O Maior](https://judge.beecrowd.com/pt/problems/view/1013)|[1013.py](iniciante/1013.py)|
