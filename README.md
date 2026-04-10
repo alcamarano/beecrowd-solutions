@@ -30,3 +30,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1019|[Conversão de Tempo](https://judge.beecrowd.com/pt/problems/view/1019)|[1019.py](iniciante/1019.py)|
 |1020|[Idade em Dias](https://judge.beecrowd.com/pt/problems/view/1020)|[1020.py](iniciante/1020.py)|
 |1021|[Notas e Moedas](https://judge.beecrowd.com/pt/problems/view/1021)|[1021.py](iniciante/1021.py)|
+|1022|[Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035)|[1022.py](iniciante/1022.py)|
