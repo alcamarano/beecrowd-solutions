@@ -28,3 +28,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1017|[Gasto de Combustível](https://judge.beecrowd.com/pt/problems/view/1017)|[1017.py](iniciante/1017.py)|
 |1018|[Cédulas](https://judge.beecrowd.com/pt/problems/view/1018)|[1018.py](iniciante/1018.py)|
 |1019|[Conversão de Tempo](https://judge.beecrowd.com/pt/problems/view/1019)|[1019.py](iniciante/1019.py)|
+|1020|[Idade em Dias](https://judge.beecrowd.com/pt/problems/view/1020)|[1020.py](iniciante/1020.py)|
