@@ -32,3 +32,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1021|[Notas e Moedas](https://judge.beecrowd.com/pt/problems/view/1021)|[1021.py](iniciante/1021.py)|
 |1035|[Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035)|[1035.py](iniciante/1035.py)|
 |1036|[Fórmula de Bhaskara](https://judge.beecrowd.com/pt/problems/view/1036)|[1036.py](iniciante/1036.py)|
+|1037|[Intervalo](https://judge.beecrowd.com/pt/problems/view/1037)|[1037.py](iniciante/1037.py)|
