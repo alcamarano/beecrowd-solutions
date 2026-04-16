@@ -35,3 +35,6 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1037|[Intervalo](https://judge.beecrowd.com/pt/problems/view/1037)|[1037.py](iniciante/1037.py)|
 |1038|[Lanche](https://judge.beecrowd.com/pt/problems/view/1038)|[1038.py](iniciante/1038.py)|
 |1040|[Média 3](https://judge.beecrowd.com/pt/problems/view/1040)|[1040.py](iniciante/1040.py)|
+|1041|[Coordenadas de um Ponto](https://judge.beecrowd.com/pt/problems/view/1041)|[1041.py](iniciante/1041.py)|
+
+
