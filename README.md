@@ -39,3 +39,7 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1042|[Sort Simples](https://judge.beecrowd.com/pt/problems/view/1042)|[1042.py](iniciante/1042.py)|
 |1043|[Triângulo](https://judge.beecrowd.com/pt/problems/view/1043)|[1043.py](iniciante/1043.py)|
 |1044|[Múltiplos](https://judge.beecrowd.com/pt/problems/view/1044)|[1044.py](iniciante/1044.py)|
+|1045|[Tipos de Triângulos](https://judge.beecrowd.com/pt/problems/view/1045)|[1045.py](iniciante/1045.py)|
+
+
+
