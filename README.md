@@ -40,6 +40,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1043|[Triângulo](https://judge.beecrowd.com/pt/problems/view/1043)|[1043.py](iniciante/1043.py)|
 |1044|[Múltiplos](https://judge.beecrowd.com/pt/problems/view/1044)|[1044.py](iniciante/1044.py)|
 |1045|[Tipos de Triângulos](https://judge.beecrowd.com/pt/problems/view/1045)|[1045.py](iniciante/1045.py)|
-
-
-
+|1046|[Tempo de Jogo](https://judge.beecrowd.com/pt/problems/view/1046)|[1046.py](iniciante/1046.py)|
