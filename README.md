@@ -42,3 +42,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1045|[Tipos de Triângulos](https://judge.beecrowd.com/pt/problems/view/1045)|[1045.py](iniciante/1045.py)|
 |1046|[Tempo de Jogo](https://judge.beecrowd.com/pt/problems/view/1046)|[1046.py](iniciante/1046.py)|
 |1047|[Tempo de Jogo com Minutos](https://judge.beecrowd.com/pt/problems/view/1047)|[1047.py](iniciante/1047.py)|
+|1048|[Aumento de Salário](https://judge.beecrowd.com/pt/problems/view/1048)|[1048.py](iniciante/1048.py)|
