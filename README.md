@@ -45,3 +45,4 @@ Minhas soluções para os problemas do Beecrowd, escritas em Python.
 |1048|[Aumento de Salário](https://judge.beecrowd.com/pt/problems/view/1048)|[1048.py](iniciante/1048.py)|
 |1049|[Animal](https://judge.beecrowd.com/pt/problems/view/1049)|[1049.py](iniciante/1049.py)|
 |1050|[DDD](https://judge.beecrowd.com/pt/problems/view/1050)|[1050.py](iniciante/1050.py)|
+|1051|[Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051)|[1051.py](iniciante/1051.py)|
